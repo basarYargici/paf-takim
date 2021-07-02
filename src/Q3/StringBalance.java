@@ -13,7 +13,7 @@ import java.util.Stack;
 public class StringBalance {
 
     public static void main(String[] args) {
-        readFile("..\\folksDev\\src\\Q3\\contentFile");
+        readFile("..\\src\\Q3\\contentFile");
     }
 
     public static void readFile(String filePath) {
